@@ -1,31 +1,22 @@
-# Hi there, I'm Joshua! 👋
+# Hi, I'm Joshua Ayomide Kolawole 👋
 
-### 💼 Experience
-* **Investment Banking Intern** | [Wall Street Oasis](https://www.wallstreetoasis.com/) *(Present)*
-  * Conducting financial analysis, market research, and valuation modeling.
-  * Integrating traditional finance principles with modern data and web3 development.
+I am an Economics and Mathematics student at McMaster University, specializing in machine learning forecasting, statistical modeling, and quantitative research. 
 
 ---
 
-### ℹ️ About Me
-I am based in Toronto, Canada, and I bridge the gap between traditional finance, quantitative analysis, and modern software development. I am highly passionate about fintech, web3, and building data-driven applications.
+### 🚀 What I Do
+* **Research & Forecasting**: Building high-accuracy time-series and predictive models using Python, Pandas, and Scikit-Learn.
+* **Hardware & Software Systems**: Founding **Quantum Quake**, where I develop self-powered EV technology utilizing piezoelectric sensors and closed-loop fluid systems.
+* **Data Analytics**: Applying rigorous data analysis and compliance standards to financial and marketing datasets.
+
+### 🛠️ Technical Stack
+* **Languages**: Python, C++, R, Java, JavaScript, SQL
+* **Data Science & ML**: Pandas, NumPy, Scikit-Learn, Multivariate Regression, Classification, Computer Vision
+* **Mathematics**: Differential Equations, Statistical Modeling, Forecasting
+
+### 📈 Featured Projects
+* **[94% Accuracy Forecasting System](LINK_TO_YOUR_REPO)**: A time-series forecasting model built to clean noisy data and run disciplined predictive analysis.
+* **[Quantum Quake Simulations](LINK_TO_YOUR_REPO)**: Python scripts and mathematical models analyzing sensor data for EV tech.
 
 ---
-
-### 🛠️ Tech Stack & Skills
-* **Finance:** Financial Modeling, Valuation, Investment Analysis
-* **Tech Interests:** Web3, Smart Contracts, Fintech APIs, Data Analysis
-* **Languages & Tools:** Python, JavaScript, Solidity, Git/GitHub
-
----
-
-### 📈 What I'm Working On
-* 📊 Analyzing market trends and building financial models.
-* 💻 Developing decentralized applications (dApps) and exploring smart contracts.
-* 🎓 Constantly learning new frameworks to improve my development workflow.
-
----
-
-### 🤝 Let's Connect!
-* **LinkedIn:** [Joshua Kolawole](https://www.linkedin.com/in/joshua-kolawole-462828367/)
-* **Email:** joshuakolawole287@gmail.com
+📫 **Connect with me:** joshuakolawole287@gmail.com | [LinkedIn](YOUR_LINK)
