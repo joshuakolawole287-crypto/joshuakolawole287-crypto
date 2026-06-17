@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Ayomide Kolawole 👋
 
-I am an Economics and Mathematics student at McMaster University, specializing in machine learning forecasting, statistical modeling, and quantitative research. 
+I am an Economics student at McMaster University, specializing in machine learning forecasting, statistical modeling, and quantitative research. 
 
 ---
 
